@@ -11,7 +11,6 @@ A beautiful and responsive website for showcasing perfumes, built with HTML and 
 
 ---
 
-![Website Screenshot](images/your-screenshot.png) <!-- You can add a screenshot too -->
 <img src="https://raw.githubusercontent.com/nikita958191/perfumeweb/refs/heads/main/midnight.jpg" style="width: 300px; height: auto;">
 <img src="https://raw.githubusercontent.com/nikita958191/perfumeweb/refs/heads/main/rose.jpg" style="width: 300px; height: auto;">
 <img src="https://raw.githubusercontent.com/nikita958191/perfumeweb/refs/heads/main/citrus.jpg" style="width: 300px; height: auto;">
